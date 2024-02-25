@@ -8,7 +8,10 @@ I'm excited to share my second project, which I've been diligently working on fo
 
 This system could be utilized for tasks like home security, monitoring specific areas for unauthorized access, or even for automated systems that respond to human presence, like activating lights upon detecting someone entering a room. Without further ado, enjoy your very own human detector!
 
+**IMPORTANT: TO EXIT PRESS THE NUMBER 1 ON YOUR KEYBOARD**
+
 **Fun Fact:** This human detector can not only detect moving objects but also interpret signals such as thumbs up and thumbs down, displaying corresponding emojis accordingly.
+- Has the time at the bottom of the screen
 
 ## Install OpenCV
 
