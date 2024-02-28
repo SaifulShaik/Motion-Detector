@@ -82,6 +82,13 @@ while cap.isOpened():
     if key == ord('1'):
         break
 
+    if key == ord('2'):
+        #Record the video of the screen and save as an mp4 on
+        break
+
+    #check if there is metal on the person
+
+
 
 cap.release()
 cv2.destroyAllWindows()
