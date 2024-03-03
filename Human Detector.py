@@ -88,6 +88,9 @@ while cap.isOpened():
 
     #check if there is metal on the person
 
+    #add another system that can let you check the moving targets
+    #updaes coming after the 7 day challenge
+
 
 
 cap.release()
